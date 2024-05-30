@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/offer/static/css/main.0a87589a.css",
+    "main.js": "/offer/static/js/main.e303d10d.js",
+    "static/js/453.49a7adfe.chunk.js": "/offer/static/js/453.49a7adfe.chunk.js",
+    "static/media/gradient-vector.avif": "/offer/static/media/gradient-vector.146991db1aa3ccfe6dc3.avif",
+    "static/media/gradient-vector-2.avif": "/offer/static/media/gradient-vector-2.e93e307353f5fc9f2c4b.avif",
+    "index.html": "/offer/index.html",
+    "main.0a87589a.css.map": "/offer/static/css/main.0a87589a.css.map",
+    "main.e303d10d.js.map": "/offer/static/js/main.e303d10d.js.map",
+    "453.49a7adfe.chunk.js.map": "/offer/static/js/453.49a7adfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a87589a.css",
+    "static/js/main.e303d10d.js"
+  ]
+}
